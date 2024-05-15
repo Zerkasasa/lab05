@@ -197,7 +197,7 @@ jobs:
 
 
 Результат:
-[![Coverage Status](https://coveralls.io/repos/github/PhilippD3/lab05/badge.svg?branch=master)](https://coveralls.io/github/PhilippD3/lab05?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/Zerkasasa/lab05/badge.svg?branch=master)](https://coveralls.io/github/Zerkasasa/lab05?branch=master)
 
 
 
